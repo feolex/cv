@@ -14,16 +14,16 @@
 ## ПРОЕКТЫ
 
 **[CatOwnerService](https://github.com/feolex/CatOwnerService)** | 2025  
-*Java, Spring Framework, Hibernate, Apache Kafka, PostgreSQL*  
+*Java 17, Spring Framework, Hibernate, Apache Kafka, PostgreSQL*  
 Spring Boot приложение с использованием Spring Framework(Boot, Data, Security), Hibernate, PostgreSQL и Apache Kafka для управления котами и их владельцами.
 
 **[MoviesSearcher](https://github.com/feolex/cinemabot)** | 2024  
-*Python, aiogram, aiohttp, aiosqlite*  
+*Python 3.12.5, aiogram, aiohttp, aiosqlite*  
 Телеграм-бот для поиска бесплатных ссылок на потоковые фильмы с сохранением истории запросов пользователей с использованием aiogram, aiohttp, aiosqlite, pytest, mypy и Flake8 с кодом по стандарту PEP8.
 
 ## ТЕХНИЧЕСКИЕ НАВЫКИ
 
-**Языки программирования:** Java, Python, C/C++  
+**Языки программирования:** Java 17-21, Python 3, C/C++
 **Инструменты разработки:** VS Code, Intellij IDEA, PyCharm, Android Studio  
 **Технологии/Фреймворки:** Spring, JPA, Hibernate, Apache Kafka, FastAPI, aiogram, aiohttp, aiosqlite, Linux, Docker, Git  
 **Методологии управления:** Agile, Scrum, Kanban  
