@@ -1,38 +1,43 @@
 # Алексей Куликов
 
-**Санкт-Петербург, Россия**  
-**Telegram:** [@feolex](https://t.me/feolex)  
-**Email:** [feolex@outlook.com](mailto:feolex@outlook.com) *(предпочитаю почту для обращений)*  
-**GitHub:** [feolex](https://github.com/feolex)
+**Java Intern/Junior Developer**  
+удалённо/гибрид/офис, full-time (40 часов)  
+Санкт-Петербург, Россия
+
+[![Telegram](../pics/tg_icon.jpg) @feolex](https://t.me/feolex) 
+[![Email](../pics/gmail_icon.jpg) feolex@outlook.com](mailto:feolex@outlook.com) 
+[8 (993) 489-1248](tel:+79934891248) 
+[![GitHub](../pics/gh_icon.jpg) feolex](https://github.com/feolex)
+
+*Предпочитаю почту для обращений*
 
 ## ОБРАЗОВАНИЕ
 
-**Университет ИТМО** | 2022 -- По настоящее время  
-*Бакалавриат, 09.03.02 Информационные системы и технологии*  
+**Университет ИТМО** | 2022 -- 2026  
+*Бак-т, 3-й курс, 09.03.02 Информационные системы и технологии*  
 Санкт-Петербург, Россия
 
 ## ПРОЕКТЫ
 
-**[CatOwnerService](https://github.com/feolex/CatOwnerService)** | 2025  
-*Java 17, Spring Framework, Hibernate, Apache Kafka, PostgreSQL*  
-Spring Boot приложение с использованием Spring Framework(Boot, Data, Security), Hibernate, PostgreSQL и Apache Kafka для управления котами и их владельцами.
+**[CatOwnerService](https://github.com/feolex/CatOwnerService)** | *Java 17, Spring, Hibernate, PostgreSQL* | 2025
+- REST-API приложение с использованием Spring Framework(Boot, Data, Security) для управления котами и их владельцами.
 
-**[MoviesSearcher](https://github.com/feolex/cinemabot)** | 2024  
-*Python 3.12.5, aiogram, aiohttp, aiosqlite*  
-Телеграм-бот для поиска бесплатных ссылок на потоковые фильмы с сохранением истории запросов пользователей с использованием aiogram, aiohttp, aiosqlite, pytest, mypy и Flake8 с кодом по стандарту PEP8.
+**[MoviesSearcher](https://github.com/feolex/cinemabot)** | *Python 3.12, aiogram, aiosqlite* | 2024
+- Телеграм-бот для поиска бесплатных ссылок на потоковые фильмы с сохранением истории запросов пользователей.
 
-## ТЕХНИЧЕСКИЕ НАВЫКИ
+## НАВЫКИ
 
-**Языки программирования:** Java 17-21, Python 3, C/C++
-**Инструменты разработки:** VS Code, Intellij IDEA, PyCharm, Android Studio  
-**Технологии/Фреймворки:** Spring, JPA, Hibernate, Apache Kafka, FastAPI, aiogram, aiohttp, aiosqlite, Linux, Docker, Git  
-**Методологии управления:** Agile, Scrum, Kanban  
-**Базы данных:** PostgreSQL, SQLite, MSQL
+**Языки программирования:** Java 17-21(продвинутый), Python 3.10-3.12(уверенный)  
+**Инструменты разработки:** VS Code(продвинутый), Intellij IDEA(продвинутый), PyCharm(продвинутый), Android Studio(новичок)  
+**Технологии/Фреймворки:** Spring(уверенный), JPA(уверенный), Hibernate(уверенный), Apache Kafka(уверенный), FastAPI(новичок), aiogram(уверенный), aiohttp(уверенный), aiosqlite(уверенный), Linux(продвинутый), Docker(уверенный), Git(уверенный)  
+**Базы данных:** PostgreSQL(продвинутый), SQLite(уверенный), MSQL(уверенный)  
+**Методологии управления:** Agile(Scrum/Kanban)  
+**Языки:** Русский - Родной, Английский - Выше среднего (B2)
 
 ## КУРСЫ
 
-**Курсы гибких навыков:** Публичные выступления, Эмоциональный интеллект, Коммуникация и командообразование  
-**Курсы технических навыков:** Программирование на Java, курс Python от ШАДа(Яндекс), Администрирование Linux, Сетевое администрирование, Проектирование систем в UML, Объектно-ориентированное программирование, Базы данных и SQL
+**Soft-skills:** Публичные выступления, Эмоциональный интеллект, Коммуникация и командообразование  
+**Hard-skills:** Программирование на Java, курс Python от ШАДа(Яндекс), Администрирование Linux, Сетевое администрирование, Проектирование систем в UML, Объектно-ориентированное программирование, Базы данных и SQL
 
 ## ВНЕУЧЕБНАЯ ДЕЯТЕЛЬНОСТЬ
 
@@ -43,11 +48,6 @@ Spring Boot приложение с использованием Spring Framewor
 - Помогал в организации сессий живого кодирования.
 - Выполнил более 100 проверок лабораторных работ студентов в течение учебного года.
 
-## ЯЗЫКИ
-
-- Русский - Родной
-- Английский - Выше среднего (B2)
-
 ## О СЕБЕ
 
-Студент-бакалавр разработки информационных систем Университета ИТМО с сильными навыками в Java и Python, полученными в процессе создания асинхронных Telegram-ботов и MVC-приложений с использованием Spring Boot.
+Занимаюсь спортивным туризмом, имею действующий взрослый разряд, соавтор исторической статьи(тезисов) на тему блокады Ленинграда(была представлена на Конгрессе Молодых Ученых, Спб 2024).
